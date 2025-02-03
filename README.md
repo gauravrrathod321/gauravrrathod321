@@ -40,10 +40,10 @@
 ---
 
 ## 📌 Projects  
-### 🎬 [Django-Based Movies API](https://github.com/gauravrrathod321)  
+### 🎬 [Django-Based Movies API](https://github.com/gauravrrathod321/SimpleIMDBRating)  
 A Django-powered REST API for movie information. Supports user authentication, ratings, and search functionality.
 
-🔹 **Tech Stack:** Django, DRF, PostgreSQL, JWT Authentication  
+🔹 **Tech Stack:** Django, Python
 
 🚀 **Live Demo:** *Coming Soon!*  
 
