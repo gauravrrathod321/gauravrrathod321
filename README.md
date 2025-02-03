@@ -7,6 +7,8 @@
 🔹 **Started with Civil Services prep → Discovered coding during COVID → Found my true passion!** ❤️💻  
 🔹 **Now, I build scalable backend systems, optimize APIs, and create impactful software solutions.**  
 🔹 **I use AI daily to enhance my work, improve delivery, and refine communication skills!** 🤖✨  
+🔹 **I am learning something new every now & then, that you will see in my repo scrambled** ✨✨
+
 
 ---
 
