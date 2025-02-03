@@ -91,3 +91,5 @@ A Django-powered REST API for movie information. Supports user authentication, r
 > _"From Civil Services to Software Engineering, and now AI-driven efficiency—it's all about solving problems!"_ 🚀
 
 > Credits: Made using GPT & [PiyushMediumBlog](https://medium.com/design-bootcamp/how-to-design-an-attractive-github-profile-readme-3618d6c53783)
+
+![Snake animation](https://github.com/gauravrrathod321/gauravrrathod321/blob/output/github-contribution-grid-snake.svg)
